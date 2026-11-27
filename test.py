@@ -1,5 +1,4 @@
 def show():
   __init__(self):
        print("How ar
-
-             gwgwgwwdkldlksdlklsdj
+shhhhhkhdddddddddddddddddddddddddddddddddddddd
