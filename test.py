@@ -1,3 +1,3 @@
 def show():
   __init__(self):
-       print("How are you")
+       print("How are yo
